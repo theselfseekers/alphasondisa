@@ -1,0 +1,14 @@
+Alpha Sondisa Designs website: HOW TO EDIT (no coding needed)
+
+ADD PICTURES TO THE GALLERY
+1. Resize the photo to about 1000 pixels wide (phone photos are too big) and save as .jpg.
+2. Put it in the "images" folder.
+3. Open gallery.js in Notepad. Copy one line, paste it, and change the file name and the description.
+4. Save, then upload the whole folder to your host again (see the hosting steps Claude gave you).
+
+ADD AN AUTO-PLAYING VIDEO
+Save a short clip as video/hero.mp4 (see video/README.txt). Upload the folder again.
+
+CHANGE WORDS, PHONE NUMBERS OR PRICES
+Open index.html in Notepad, press Ctrl+F, search for the text, edit it and save.
+Or send the change to Claude and ask for an updated file.
